@@ -1,3 +1,5 @@
+analytica_*.json
+
 # Logs
 logs
 *.log
